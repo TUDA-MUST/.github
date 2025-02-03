@@ -2,7 +2,7 @@
 
 Welcome to the GitHub page of the Measurement and Technology Group (MUST) at TU Darmstadt, Germany.
 
-We share open source hardware and software based on our research 🔬💡. Our repositories are regularly updated with our innovative research ⚙️.
+We share open source hardware and software based on our research. Our repositories are regularly updated with our innovative research 💡.
 
 For questions or collaboration opportunities, please contact us at [admin@must.tu-darmstadt.de](mailto:admin@must.tu-darmstadt.de) 📧.
 
